@@ -172,8 +172,8 @@
   "users": [
     {
       "id": 1,
-      "nickname": "我是 user01",
-      "username": "user01",
+      "nickname": "john",
+      "username": "john",
       "password": "john"
     },
     {
